@@ -1,0 +1,23 @@
+{
+  "name": "fcc-requestheaderparsermicroservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Request Header Parser Microservice",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesuchor/FCC-RequestHeaderParserMicroservice.git"
+  },
+  "author": "mikesuchor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesuchor/FCC-RequestHeaderParserMicroservice/issues"
+  },
+  "homepage": "https://github.com/mikesuchor/FCC-RequestHeaderParserMicroservice#readme"
+}
